@@ -9,7 +9,7 @@
   The main goal of this thesis is the implementation and analysis of deep neural networks
 to be applied to image feature extraction scenarios, utilizing convolutional layers. To be precise,
 this project covers the implementation of models, capable of detecting and extracting features
-from human faces. Facial key-point detection is a computer vision problem and is a very
+from human faces. Facial key-point detection is a computer vision task and is a very
 powerful tool in the analysis of human emotion, as well as digital face processing using
 graphics. Ultimately the models implemented, detect the coordinates of a person’s mouth,
 eyes, lips, and nose in any given facial portrait.
